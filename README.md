@@ -3,7 +3,7 @@
 ## Reach Out
 📫 waberryd@proton.me
 ### Resume
-https://waberi-daher-jvu5hmr7n-berrythewas-projects.vercel.app/
+https://waberi-daher.vercel.app/
 ---
 
 >  
